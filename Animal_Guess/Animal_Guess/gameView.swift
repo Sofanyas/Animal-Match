@@ -136,18 +136,8 @@ class gameView: UIViewController {
             animalChoice.font = font
             
         }
-        
-        
-        //Method ensures that correct choice is offered atleadt 50% of the time
-//        func setAnimalChoice() {
-//            
-//        }
-        
-        
     }
-
-    
-    
+   
     //Action for red button
     @IBAction func redButton(_ sender: Any) {
         
