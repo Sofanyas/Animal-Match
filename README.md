@@ -14,7 +14,7 @@ This iOS mobile application is developed using Swift programming language, UISto
 - **Swift Language Features:** Leveraging Swift's features, such as type safety, optional chaining, and concise syntax, ensures the development of a reliable and maintainable codebase.
 
 ## Development Environment
-To contribute to or run this application, make sure you have the following:
+To run this application, make sure you have the following:
 - **Xcode:** Install the latest version of Xcode, Apple's official IDE for iOS development.
 - **Swift Compiler:** Ensure that your development environment includes the Swift compiler for building and executing Swift code.
 
